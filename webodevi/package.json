@@ -1,0 +1,9 @@
+{
+  "name": "webodevi",
+  "version": "0.0.0",
+  "description": "webodevi",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
